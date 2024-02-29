@@ -6,6 +6,12 @@ var PRELOAD = {
     "img/fish-silly.png",
     "img/fish-blank-resize.png",
     "img/fish-placeholder.png",
+    "img/level0.png",
+    "img/level1.png",
+    "img/level2.png",
+    "img/level3.png",
+    "img/level4.png",
+    "img/level5.png"
   ],
   "sounds": [
     "snd/w_dripping_B_3.wav",
